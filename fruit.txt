@@ -4,3 +4,4 @@ szilva-barack
 eper
 ribizli
 dinnye
+málna
